@@ -1,5 +1,8 @@
 package org.therdes.leetcode.algorithm.backspacestringcompare;
 
+/**
+ * https://leetcode-cn.com/problems/backspace-string-compare/
+ */
 public class ReverseTraversalSolution {
     public boolean backspaceCompare(String S, String T) {
         int sn = S.length();
